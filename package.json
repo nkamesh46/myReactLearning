@@ -1,0 +1,29 @@
+{
+  "name": "myreactlearning",
+  "version": "1.0.0",
+  "description": "Namsthe React",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkamesh46/myReactLearning.git"
+  },
+  "author": "kamesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nkamesh46/myReactLearning/issues"
+  },
+  "homepage": "https://github.com/nkamesh46/myReactLearning#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "git": "^0.1.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
